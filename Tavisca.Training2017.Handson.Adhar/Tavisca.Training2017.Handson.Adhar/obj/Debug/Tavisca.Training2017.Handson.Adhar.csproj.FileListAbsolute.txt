@@ -1,0 +1,5 @@
+D:\Deependra\Tavisca.Training2017.Handson.Adhar\Tavisca.Training2017.Handson.Adhar\bin\Debug\Tavisca.Training2017.Handson.Adhar.dll
+D:\Deependra\Tavisca.Training2017.Handson.Adhar\Tavisca.Training2017.Handson.Adhar\bin\Debug\Tavisca.Training2017.Handson.Adhar.pdb
+D:\Deependra\Tavisca.Training2017.Handson.Adhar\Tavisca.Training2017.Handson.Adhar\obj\Debug\Tavisca.Training2017.Handson.Adhar.csprojResolveAssemblyReference.cache
+D:\Deependra\Tavisca.Training2017.Handson.Adhar\Tavisca.Training2017.Handson.Adhar\obj\Debug\Tavisca.Training2017.Handson.Adhar.dll
+D:\Deependra\Tavisca.Training2017.Handson.Adhar\Tavisca.Training2017.Handson.Adhar\obj\Debug\Tavisca.Training2017.Handson.Adhar.pdb
