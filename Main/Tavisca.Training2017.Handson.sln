@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackImplementingViaQueue",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrraySortingViaMerge", "ArrraySortingViaMerge\ArrraySortingViaMerge.csproj", "{DD4F2B3B-C959-41E5-B91E-8776089DA35A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneFromDegree", "TimeZoneFromDegree\TimeZoneFromDegree.csproj", "{B0632266-D77B-4318-81F9-A375AE4EE67F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DD4F2B3B-C959-41E5-B91E-8776089DA35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD4F2B3B-C959-41E5-B91E-8776089DA35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD4F2B3B-C959-41E5-B91E-8776089DA35A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0632266-D77B-4318-81F9-A375AE4EE67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0632266-D77B-4318-81F9-A375AE4EE67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0632266-D77B-4318-81F9-A375AE4EE67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0632266-D77B-4318-81F9-A375AE4EE67F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

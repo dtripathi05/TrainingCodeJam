@@ -1,0 +1,6 @@
+D:\Deependra\Main\TimeZoneFromDegree\bin\Debug\TimeZoneFromDegree.exe.config
+D:\Deependra\Main\TimeZoneFromDegree\bin\Debug\TimeZoneFromDegree.exe
+D:\Deependra\Main\TimeZoneFromDegree\bin\Debug\TimeZoneFromDegree.pdb
+D:\Deependra\Main\TimeZoneFromDegree\obj\Debug\TimeZoneFromDegree.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\TimeZoneFromDegree\obj\Debug\TimeZoneFromDegree.exe
+D:\Deependra\Main\TimeZoneFromDegree\obj\Debug\TimeZoneFromDegree.pdb
