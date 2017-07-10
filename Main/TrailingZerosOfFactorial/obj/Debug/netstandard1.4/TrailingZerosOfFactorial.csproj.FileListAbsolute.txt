@@ -1,0 +1,13 @@
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\TrailingZerosOfFactorial\bin\Debug\netstandard1.4\TrailingZerosOfFactorial.deps.json
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\TrailingZerosOfFactorial\bin\Debug\netstandard1.4\TrailingZerosOfFactorial.dll
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\TrailingZerosOfFactorial\bin\Debug\netstandard1.4\TrailingZerosOfFactorial.pdb
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.AssemblyInfo.cs
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.dll
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.pdb
+D:\Deependra\Main\TrailingZerosOfFactorial\bin\Debug\netstandard1.4\TrailingZerosOfFactorial.deps.json
+D:\Deependra\Main\TrailingZerosOfFactorial\bin\Debug\netstandard1.4\TrailingZerosOfFactorial.dll
+D:\Deependra\Main\TrailingZerosOfFactorial\bin\Debug\netstandard1.4\TrailingZerosOfFactorial.pdb
+D:\Deependra\Main\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.AssemblyInfo.cs
+D:\Deependra\Main\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.dll
+D:\Deependra\Main\TrailingZerosOfFactorial\obj\Debug\netstandard1.4\TrailingZerosOfFactorial.pdb

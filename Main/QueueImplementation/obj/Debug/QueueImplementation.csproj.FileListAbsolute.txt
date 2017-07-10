@@ -1,0 +1,9 @@
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\QueueImplementation\bin\Debug\QueueImplementation.dll
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\QueueImplementation\bin\Debug\QueueImplementation.pdb
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\QueueImplementation\obj\Debug\QueueImplementation.dll
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\QueueImplementation\obj\Debug\QueueImplementation.pdb
+D:\Deependra\Main\QueueImplementation\bin\Debug\QueueImplementation.dll
+D:\Deependra\Main\QueueImplementation\bin\Debug\QueueImplementation.pdb
+D:\Deependra\Main\QueueImplementation\obj\Debug\QueueImplementation.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\QueueImplementation\obj\Debug\QueueImplementation.dll
+D:\Deependra\Main\QueueImplementation\obj\Debug\QueueImplementation.pdb

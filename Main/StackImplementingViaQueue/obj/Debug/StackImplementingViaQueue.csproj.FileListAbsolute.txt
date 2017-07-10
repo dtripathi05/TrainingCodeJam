@@ -1,0 +1,10 @@
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\StackImplementingViaQueue.exe.config
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\StackImplementingViaQueue.exe
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\StackImplementingViaQueue.pdb
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\ImplementingStackUsing2Queue.dll
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\QueueImplementation.dll
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\ImplementingStackUsing2Queue.pdb
+D:\Deependra\Main\StackImplementingViaQueue\bin\Debug\QueueImplementation.pdb
+D:\Deependra\Main\StackImplementingViaQueue\obj\Debug\StackImplementingViaQueue.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\StackImplementingViaQueue\obj\Debug\StackImplementingViaQueue.exe
+D:\Deependra\Main\StackImplementingViaQueue\obj\Debug\StackImplementingViaQueue.pdb

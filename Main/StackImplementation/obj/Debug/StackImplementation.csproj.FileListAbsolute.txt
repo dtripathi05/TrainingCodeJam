@@ -1,0 +1,4 @@
+D:\Deependra\Main\StackImplementation\bin\Debug\StackImplementation.dll
+D:\Deependra\Main\StackImplementation\bin\Debug\StackImplementation.pdb
+D:\Deependra\Main\StackImplementation\obj\Debug\StackImplementation.dll
+D:\Deependra\Main\StackImplementation\obj\Debug\StackImplementation.pdb

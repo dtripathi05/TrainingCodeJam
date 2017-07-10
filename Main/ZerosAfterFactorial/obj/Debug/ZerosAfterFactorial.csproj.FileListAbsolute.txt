@@ -1,0 +1,8 @@
+D:\Deependra\Main\ZerosAfterFactorial\bin\Debug\ZerosAfterFactorial.exe.config
+D:\Deependra\Main\ZerosAfterFactorial\bin\Debug\ZerosAfterFactorial.exe
+D:\Deependra\Main\ZerosAfterFactorial\bin\Debug\ZerosAfterFactorial.pdb
+D:\Deependra\Main\ZerosAfterFactorial\bin\Debug\TrailingZerosOfFactorial.dll
+D:\Deependra\Main\ZerosAfterFactorial\bin\Debug\TrailingZerosOfFactorial.pdb
+D:\Deependra\Main\ZerosAfterFactorial\obj\Debug\ZerosAfterFactorial.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\ZerosAfterFactorial\obj\Debug\ZerosAfterFactorial.exe
+D:\Deependra\Main\ZerosAfterFactorial\obj\Debug\ZerosAfterFactorial.pdb

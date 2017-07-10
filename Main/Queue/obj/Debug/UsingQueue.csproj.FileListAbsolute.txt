@@ -1,0 +1,16 @@
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\bin\Debug\Queue.exe.config
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\bin\Debug\Queue.exe
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\bin\Debug\Queue.pdb
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\bin\Debug\QueueImplementation.dll
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\bin\Debug\QueueImplementation.pdb
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\obj\Debug\UsingQueue.csprojResolveAssemblyReference.cache
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\obj\Debug\Queue.exe
+c:\users\dtripathi\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson\Queue\obj\Debug\Queue.pdb
+D:\Deependra\Main\Queue\bin\Debug\Queue.exe.config
+D:\Deependra\Main\Queue\bin\Debug\Queue.exe
+D:\Deependra\Main\Queue\bin\Debug\Queue.pdb
+D:\Deependra\Main\Queue\bin\Debug\QueueImplementation.dll
+D:\Deependra\Main\Queue\bin\Debug\QueueImplementation.pdb
+D:\Deependra\Main\Queue\obj\Debug\UsingQueue.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\Queue\obj\Debug\Queue.exe
+D:\Deependra\Main\Queue\obj\Debug\Queue.pdb

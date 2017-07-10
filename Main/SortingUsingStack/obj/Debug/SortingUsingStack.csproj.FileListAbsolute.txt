@@ -1,0 +1,7 @@
+D:\Deependra\Main\SortingUsingStack\bin\Debug\SortingUsingStack.dll
+D:\Deependra\Main\SortingUsingStack\bin\Debug\SortingUsingStack.pdb
+D:\Deependra\Main\SortingUsingStack\obj\Debug\SortingUsingStack.dll
+D:\Deependra\Main\SortingUsingStack\obj\Debug\SortingUsingStack.pdb
+D:\Deependra\Main\SortingUsingStack\obj\Debug\SortingUsingStack.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\SortingUsingStack\bin\Debug\StackImplementation.dll
+D:\Deependra\Main\SortingUsingStack\bin\Debug\StackImplementation.pdb

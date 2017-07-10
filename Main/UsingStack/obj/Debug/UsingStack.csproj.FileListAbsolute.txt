@@ -1,0 +1,8 @@
+D:\Deependra\Main\UsingStack\bin\Debug\UsingStack.exe.config
+D:\Deependra\Main\UsingStack\bin\Debug\UsingStack.exe
+D:\Deependra\Main\UsingStack\bin\Debug\UsingStack.pdb
+D:\Deependra\Main\UsingStack\obj\Debug\UsingStack.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\UsingStack\obj\Debug\UsingStack.exe
+D:\Deependra\Main\UsingStack\obj\Debug\UsingStack.pdb
+D:\Deependra\Main\UsingStack\bin\Debug\StackImplementation.dll
+D:\Deependra\Main\UsingStack\bin\Debug\StackImplementation.pdb

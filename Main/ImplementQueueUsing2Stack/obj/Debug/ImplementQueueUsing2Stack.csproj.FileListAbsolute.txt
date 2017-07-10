@@ -1,0 +1,7 @@
+D:\Deependra\Main\ImplementQueueUsing2Stack\bin\Debug\ImplementQueueUsing2Stack.dll
+D:\Deependra\Main\ImplementQueueUsing2Stack\bin\Debug\ImplementQueueUsing2Stack.pdb
+D:\Deependra\Main\ImplementQueueUsing2Stack\bin\Debug\StackImplementation.dll
+D:\Deependra\Main\ImplementQueueUsing2Stack\bin\Debug\StackImplementation.pdb
+D:\Deependra\Main\ImplementQueueUsing2Stack\obj\Debug\ImplementQueueUsing2Stack.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\ImplementQueueUsing2Stack\obj\Debug\ImplementQueueUsing2Stack.dll
+D:\Deependra\Main\ImplementQueueUsing2Stack\obj\Debug\ImplementQueueUsing2Stack.pdb

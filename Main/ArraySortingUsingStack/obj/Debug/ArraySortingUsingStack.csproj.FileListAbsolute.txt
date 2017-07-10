@@ -1,0 +1,9 @@
+D:\Deependra\Main\ArraySortingUsingStack\bin\Debug\ArraySortingUsingStack.exe.config
+D:\Deependra\Main\ArraySortingUsingStack\bin\Debug\ArraySortingUsingStack.exe
+D:\Deependra\Main\ArraySortingUsingStack\bin\Debug\ArraySortingUsingStack.pdb
+D:\Deependra\Main\ArraySortingUsingStack\bin\Debug\SortingUsingStack.dll
+D:\Deependra\Main\ArraySortingUsingStack\bin\Debug\SortingUsingStack.pdb
+D:\Deependra\Main\ArraySortingUsingStack\bin\Debug\ClassLibrary1.pdb
+D:\Deependra\Main\ArraySortingUsingStack\obj\Debug\ArraySortingUsingStack.csprojResolveAssemblyReference.cache
+D:\Deependra\Main\ArraySortingUsingStack\obj\Debug\ArraySortingUsingStack.exe
+D:\Deependra\Main\ArraySortingUsingStack\obj\Debug\ArraySortingUsingStack.pdb
